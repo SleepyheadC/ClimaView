@@ -30,7 +30,7 @@ To use the ClimaView weather application:
 ## Credits
 
 - OpenWeather API: [https://openweathermap.org/api](https://openweathermap.org/api)
-- Icons by [Icons8]((https://icons8.com/)/)
+- Weather icons by [icons8](https://icons8.com)
 
 
 
